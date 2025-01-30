@@ -1,6 +1,7 @@
-# Universidade de Segurança Cibernética[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# Universidade de Segurança Cibernética[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- 🇧🇷 **[Versão em Português]**
+
+- 🇧🇷 **[Versão em Português]**![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 > Uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
 
@@ -11,53 +12,34 @@
 <br/>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 ## Sumário
 
 * [Sobre](#sobre)
 * [Introdução e Pré-Segurança](#introducao-e-pre-seguranca) - (Completo/Em Progresso)
-* [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
+* [Grátis Caminho Red Team iniciante](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
+* [Grátis Caminho Blue Team](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
+* [Bonus CTF prática e Últimos CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
-* [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress)
+* [Salas extremamente difícies](#extremely-hard-rooms-to-do) - (Completed/In Progress)
 
-<!-- | Paths                              | Completion |
-| -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
-|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
-|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
 
-## About
+## Sobre
 
-Cyber Security University is A curated list of awesome and free educational resources that focus on learning by doing.
 
-There are 6 parts to this.
-1. Introduction and Pre-security
-2. Free Beginner Red Team Path
-3. Free Beginner Blue Team Path
-4. Bonus practices
-5. Latest CVEs
-6. Extremely Hard rooms
-The tasks are linear in nature of the difficulty. So it's recommended to do it in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+A Universidade de Segurança Cibernética é uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
 
-<!--lint disable double-link-->
-As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
+1. Introdução e pré-segurança
+2. Caminho gratuito de Red Team para iniciantes
+3. Caminho gratuito de Blue Team para iniciantes
+4. Práticas bônus
+5. Últimos CVEs
+6. Salas extremamente difíceis
 
-<!--lint disable double-link-->
-[↑](#contents)
-<!--lint enable double-link-->
-## Contributing
+As tarefas são lineares em natureza de dificuldade. Portanto, é recomendável fazê-las em ordem. Mas você ainda pode pular e pular algumas salas se perceber que já está familiarizado com os conceitos.
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+## Introdução e Pré-Segurança
 
-## Introduction and Pre-Security
-
-### Level 1 - Intro
+### Level 1 - Introdução
 
 <!--lint disable double-link-->
 * [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using OpenVPN.<!--lint enable double-link-->
