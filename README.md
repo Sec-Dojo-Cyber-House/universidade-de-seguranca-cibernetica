@@ -1,9 +1,11 @@
-# Awesome Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Universidade de Segurança Cibernética[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+- 🇧🇷 **[Versão em Português]
 
 > A curated list of awesome and free educational resources that focuses on learn by doing.
 
 <div align="center">
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="assets/purpleteam.png" width="250"/></a>
+<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="assets/brasil.webp" width="250"/></a>
 <br/>
 <i>Because education should be free.</i>
 <br/>
