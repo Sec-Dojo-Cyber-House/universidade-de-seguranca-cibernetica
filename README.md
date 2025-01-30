@@ -43,24 +43,24 @@ As tarefas são lineares em natureza de dificuldade. Portanto, é recomendável 
 ### Level 1 - Introdução
 
 <!--lint disable double-link-->
-* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using OpenVPN.<!--lint enable double-link-->
-* [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
-* [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
-* [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
-* [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
-* [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
-* [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
-* [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Aprenda como se conectar a uma rede privada virtual usando OpenVPN<!--lint enable double-link-->
+* [Bem-Vindo](<https://tryhackme.com/jr/welcome>) - Aprenda a usar uma sala TryHackMe para começar sua qualificação em segurança cibernética.
+* [Introdução a Pesquisa](<https://tryhackme.com/room/introtoresearch>) - Uma breve introdução às habilidades de pesquisa para testes de penetração.
+* [Fundamentos de Linux 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [Fundamentos de Linux 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [Fundamentos de Linux 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [Fundamentos de Pentesting](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentos de testes de penetração
+* [Princípios de segurança](<https://tryhackme.com/room/principlesofsecurity>) - Princípios de segurança
+* [Operações Red Team](<https://tryhackme.com/room/redteamengagements>) - Introdução as operações de Red Team.
+* [Hip Flask](https://tryhackme.com/room/hipflask) - Um passo a passo detalhado abordando a metodologia de pentest em um servidor vulnerável.
+* [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - Um curso gratuito com 41 laboratórios práticos para praticar e dominar os comandos Linux mais comumente usados.
 
 <!-- markdownlint-disable MD036 -->
-**Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
+**CTFs introdutórios para você começar treinar**<!-- markdownlint-enable MD036 -->
 
-* [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
-* [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
-* [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.
+* [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explicando como os mecanismos de busca funcionam e como utilizá-los para encontrar conteúdo oculto!
+* [Osint](<https://tryhackme.com/room/ohsint>) - Introdução à inteligência de código aberto.
+* [Shodan.io](<https://tryhackme.com/room/shodan>) - Saiba mais sobre o Shodan.io e como usá-lo para enumeração de dispositivos.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
