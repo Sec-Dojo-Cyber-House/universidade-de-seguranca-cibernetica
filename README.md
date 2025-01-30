@@ -1,22 +1,22 @@
 # Universidade de Segurança Cibernética[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- 🇧🇷 **[Versão em Português]
+- 🇧🇷 **[Versão em Português]**
 
-> A curated list of awesome and free educational resources that focuses on learn by doing.
+> Uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
 
 <div align="center">
 <a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="assets/brasil.webp" width="250"/></a>
 <br/>
-<i>Because education should be free.</i>
+<i>Porque a educação deve ser gratuita.</i>
 <br/>
-
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 </div>
 
-## Contents
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-* [About](#about)
-* [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed/In Progress)
+## Sumário
+
+* [Sobre](#sobre)
+* [Introdução e Pré-Segurança](#introducao-e-pre-seguranca) - (Completo/Em Progresso)
 * [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
@@ -36,7 +36,7 @@
 
 Cyber Security University is A curated list of awesome and free educational resources that focus on learning by doing.
 
-There are 6 parts to this. 
+There are 6 parts to this.
 1. Introduction and Pre-security
 2. Free Beginner Red Team Path
 3. Free Beginner Blue Team Path
@@ -316,7 +316,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Footnotes
 
-**Inspired by** <https://skerritt.blog/free-rooms/>
+**Traduzido de** <https://github.com/brootware/awesome-cyber-security-university>
 
 ### Contributors & stargazers ✨
 
