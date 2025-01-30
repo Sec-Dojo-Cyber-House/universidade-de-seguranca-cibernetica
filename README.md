@@ -1,7 +1,8 @@
 # Universidade de Segurança Cibernética[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-- 🇧🇷 **[Versão em Português]**![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🇧🇷 **[Versão em Português]**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 > Uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
 
