@@ -4,15 +4,15 @@
 
 
 
-Contents
-About
-Introduction and Pre-Security - (Completed/In Progress)
-Free Beginner Red Team Path - (Add your badge here. The badge code is hidden in this repo)
-Free Beginner Blue Team Path - (Add your badge here. The badge code is hidden in this repo)
-Bonus CTF practice and Latest CVEs - (Completed/In Progress)
-Bonus Windows - (Completed/In Progress)
-Extremely Hard Rooms to do - (Completed/In Progress)
-About
+# Contents
+.[About](About)
+.[Introduction and Pre-Security](Introduction and Pre-security) - (Completed/In Progress)
+.[Free Beginner Red Team Path] - (Add your badge here. The badge code is hidden in this repo)
+.[Free Beginner Blue Team Path] - (Add your badge here. The badge code is hidden in this repo)
+.[Bonus CTF practice and Latest CVEs] - (Completed/In Progress)
+.[Bonus Windows] - (Completed/In Progress)
+.[Extremely Hard Rooms to do] - (Completed/In Progress)
+# About
 Cyber Security University is A curated list of awesome and free educational resources that focus on learning by doing.
 
 There are 6 parts to this.
@@ -27,10 +27,10 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ↑
 
-Contributing
+# Contributing
 Pull requests are welcome with the condition that the resource should be free! Please read the contribution guide in the wiki if you wish to add tools or resources.
 
-Introduction and Pre-Security
+# Introduction and Pre-Security
 Level 1 - Intro
 OpenVPN - Learn how to connect to a virtual private network using OpenVPN.
 Welcome - Learn how to use a TryHackMe room to start your upskilling in cyber security.
@@ -50,7 +50,7 @@ Osint - Intro to Open Source Intelligence.
 Shodan.io - Learn about Shodan.io and how to use it for device enumeration.
 ↑
 
-Free Beginner Red Team Path
+# Free Beginner Red Team Path
 Level 2 - Tooling
 Tmux - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
 Nmap,Curl and Netcat - Get experience with Nmap, Curl and Netcat for network communications.
@@ -119,7 +119,7 @@ Congratulations! If you have finished until here. You deserve a badge! Put this 
 Click here to get your red team badge!
 ↑
 
-Free Beginner Blue Team Path
+# Free Beginner Blue Team Path
 Level 1 - Tools
 Introduction to digital forensics - Intro to Digital Forensics.
 Windows Fundamentals - Intro to Windows.
@@ -187,7 +187,7 @@ Congratulations! If you have finished until here. You deserve a badge! Put this 
 Click here to get your blue team badge!
 ↑
 
-Bonus CTF practice and Latest CVEs
+# Bonus CTF practice and Latest CVEs
 Bandit - Aimed at absolute beginners and teaches the basics of remote server access.
 Natas - Teaches the basics of serverside web-security.
 Post Exploitation Basics - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
@@ -203,7 +203,7 @@ Spring4Shell - Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in t
 Most Recent threats - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
 ↑
 
-Bonus Windows
+# Bonus Windows
 Attacktive Directory - Learn about 99% of Corporate networks that run off of AD.
 Retro - Breaking out of the retro-themed box.
 Blue Print - Hack into this Windows machine and escalate your privileges to Administrator.
@@ -211,7 +211,7 @@ Anthem - Exploit a Windows machine in this beginner-level challenge.
 Relevant - Penetration Testing Challenge.
 ↑
 
-Extremely Hard Rooms to do
+# Extremely Hard Rooms to do
 Ra - You have found WindCorp's internal network and their Domain Controller. Pwn the network.
 CCT2019 - Legacy challenges from the US Navy Cyber Competition Team 2019 Assessment sponsored by US TENTH Fleet.
 Theseus - The first installment of the SuitGuy series of very hard challenges.
@@ -226,4 +226,4 @@ Racetrack Bank - It's time for another heist.
 Python Playground - Use python to pwn this room.
 ↑
 
-Footnotes
+# Footnotes
