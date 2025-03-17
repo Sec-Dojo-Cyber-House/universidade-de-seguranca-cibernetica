@@ -5,13 +5,14 @@
 
 
 # Conteúdo
-* [Sobre](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#about)
-* [Introdução a Segurança Cibernetica](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introduction-and-pre-security) - (Completo/Em Progresso)
-* [Red Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Blue Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Prática Bônus de CTF e Útimos CVEs](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#bonus-ctf-practice-and-latest-cves) - (Completo/Em Progresso)
-* [Bônus Windows](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#bonus-windows) - (Completed/In Progress)
-* [Salas extremamente difíceis de fazer](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#extremely-hard-rooms-to-do) - (Completo/Em Progresso)
+* [Sobre](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file##conte%C3%BAdo)
+* [Introdução a Segurança Cibernetica](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introdu%C3%A7%C3%A3o-a-seguran%C3%A7a-cibernetica) - (Completo/Em Progresso)
+* [Red Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#red-team---curso-iniciante-gratuito) - (Add your badge here. The badge code is hidden in this repo)
+* [Blue Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#blue-team---curso-iniciante-gratuito) - (Add your badge here. The badge code is hidden in this repo)
+* [Prática Bônus de CTF e Útimos CVEs](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#pr%C3%A1tica-b%C3%B4nus-de-ctf-e-%C3%BAtimos-cves) - (Completo/Em Progresso)
+* [Bônus Windows](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#b%C3%B4nus-windows) - (Completed/In Progress)
+* [Salas extremamente difíceis de fazer](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#salas-extremamente-dif%C3%ADceis-de-fazer) - (Completo/Em Progresso)
+
 # Sobre
 A Universidade de Segurança Cibernetica é uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
 
@@ -33,12 +34,12 @@ Contribuição com os conteúdos são bem-vindos com a condição de que o recur
 
 # Introdução a Segurança Cibernetica
 Nível 1 - Introdução
-* OpenVPN - Aprenda a se conectar a uma rede privada virtual usando OpenVPN.
-* Bem-vindo - Aprenda a usar uma sala TryHackMe para começar sua qualificação em segurança cibernética.
-* Introdução à pesquisa - Uma breve introdução às habilidades de pesquisa para pentesting.
-* Fundamentos do Linux 1 - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
-* Fundamentos do Linux 2 - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
-* Fundamentos do Linux 3 - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [OpenVPN](https://tryhackme.com/room/openvpn) - Aprenda a se conectar a uma rede privada virtual usando OpenVPN.
+* [Bem-vindo](https://tryhackme.com/jr/welcome) - Aprenda a usar uma sala TryHackMe para começar sua qualificação em segurança cibernética.
+* [Introdução à pesquisa](https://tryhackme.com/room/introtoresearch) - Uma breve introdução às habilidades de pesquisa para pentesting.
+* [Fundamentos do Linux 1](https://tryhackme.com/room/linuxfundamentalspart1) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [Fundamentos do Linux 2](https://tryhackme.com/room/linuxfundamentalspart2) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
+* [Fundamentos do Linux 3](https://tryhackme.com/room/linuxfundamentalspart3) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
 * Fundamentos do pentesting - Fundamentos do teste de penetração.
 * Princípios de segurança - Princípios de segurança.
 * Engajamentos do Red Team - Introdução aos engajamentos do Red Team.
