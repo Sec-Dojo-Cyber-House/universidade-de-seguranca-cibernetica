@@ -5,13 +5,13 @@
 
 
 # Contents
-* [About](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#about)
-* [Introduction and Pre-Security](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#introduction-and-pre-security) - (Completed/In Progress)
-* [Free Beginner Red Team Path](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Free Beginner Blue Team Path](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
-* [Bonus CTF practice and Latest CVEs](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
-* [Bonus Windows](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#bonus-windows) - (Completed/In Progress)
-* [Extremely Hard Rooms to do](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/edit/main/README.md#extremely-hard-rooms-to-do) - (Completed/In Progress)
+* [About](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#about)
+* [Introduction and Pre-Security](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introduction-and-pre-security) - (Completed/In Progress)
+* [Free Beginner Red Team Path](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
+* [Free Beginner Blue Team Path](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
+* [Bonus CTF practice and Latest CVEs](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
+* [Bonus Windows](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#bonus-windows) - (Completed/In Progress)
+* [Extremely Hard Rooms to do](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#extremely-hard-rooms-to-do) - (Completed/In Progress)
 # About
 Cyber Security University is A curated list of awesome and free educational resources that focus on learning by doing.
 
