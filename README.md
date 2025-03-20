@@ -40,39 +40,39 @@ Nível 1 - Introdução
 * [Fundamentos do Linux 1](https://tryhackme.com/room/linuxfundamentalspart1) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
 * [Fundamentos do Linux 2](https://tryhackme.com/room/linuxfundamentalspart2) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
 * [Fundamentos do Linux 3](https://tryhackme.com/room/linuxfundamentalspart3) - Embarque na jornada de aprendizado dos fundamentos do Linux. Aprenda a executar alguns dos primeiros comandos essenciais em um terminal interativo.
-* Fundamentos do pentesting - Fundamentos do teste de penetração.
-* Princípios de segurança - Princípios de segurança.
-* Engajamentos do Red Team - Introdução aos engajamentos do Red Team.
-* Hip Flask - Um passo a passo detalhado cobrindo a metodologia de pentest contra um servidor vulnerável.
-* Pratique comandos Linux - Um curso gratuito com 41 Salas práticas para praticar e dominar os comandos Linux mais comumente usados.
+* [Fundamentos do pentesting](https://tryhackme.com/room/pentestingfundamentals) - Fundamentos do teste de penetração.
+* [Princípios de segurança](https://tryhackme.com/room/principlesofsecurity) - Princípios de segurança.
+* [Engajamentos do Red Team](https://tryhackme.com/room/redteamengagements) - Introdução aos engajamentos do Red Team.
+* [Hip Flask](https://tryhackme.com/room/hipflask) - Um passo a passo detalhado cobrindo a metodologia de pentest contra um servidor vulnerável.
+* [Pratique comandos Linux](https://labex.io/courses/linux-basic-commands-practice-online) - Um curso gratuito com 41 Salas práticas para praticar e dominar os comandos Linux mais comumente usados.
 
 CTFs introdutórios para você se familiarizar
 
-* Google Dorking - Explicando como os mecanismos de busca funcionam e aproveitando-os para encontrar conteúdo oculto!
-* Osint - Introdução à inteligência de código aberto.
-* Shodan.io - Aprenda sobre Shodan.io e como usá-lo para enumeração de dispositivos.
+* [Google Dorking](https://tryhackme.com/room/googledorking) - Explicando como os mecanismos de busca funcionam e aproveitando-os para encontrar conteúdo oculto!
+* [Osint](https://tryhackme.com/room/ohsint) - Introdução à inteligência de código aberto.
+* [Shodan.io](https://tryhackme.com/room/shodan) - Aprenda sobre Shodan.io e como usá-lo para enumeração de dispositivos.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 # Red Team - Curso Iniciante Gratuito
 Nível 2 - Ferramentas
-* Tmux - Aprenda a usar o tmux, uma das ferramentas multitarefa mais poderosas do Linux.
-* Nmap, Curl e Netcat - Obtenha experiência com Nmap, Curl e Netcat para comunicações de rede.
-* Web Scanning - Aprenda os conceitos básicos de escaneamento automatizado da Web.
-* Sublist3r - Aprenda a encontrar subdomínios com o Sublist3r.
-* Metasploit - Uma introdução aos principais componentes do Metasploit Framework.
-* Hydra - Aprenda sobre e use o Hydra, um cracker de logon de rede rápido, para força bruta e obter as credenciais de um site.
-* Linux Privesc - Pratique suas habilidades de Escalação de Privilégios do Linux em uma VM Debian intencionalmente mal configurada com várias maneiras de obter root! SSH está disponível.
-* Fundamentos do Red Team - Aprenda sobre os conceitos básicos de um engajamento Red Team, os principais componentes e partes interessadas envolvidas e como o Red Team difere de outros engajamentos de segurança cibernética.
-* Red Team Recon - Aprenda a usar DNS, pesquisa avançada, Recon-ng e Maltego para coletar informações sobre seu alvo.
-* Tutoriais Nmap - Aprenda e pratique os fundamentos da varredura de rede usando Nmap.
+* [Tmux](https://tryhackme.com/room/rptmux) - Aprenda a usar o tmux, uma das ferramentas multitarefa mais poderosas do Linux.
+* [Nmap, Curl e Netcat](https://echoctf.red/challenge/1) - Obtenha experiência com Nmap, Curl e Netcat para comunicações de rede.
+* [Web Scanning](https://tryhackme.com/room/rustscan) - Aprenda os conceitos básicos de escaneamento automatizado da Web.
+* [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Aprenda a encontrar subdomínios com o Sublist3r.
+* [Metasploit](https://tryhackme.com/room/metasploitintro) - Uma introdução aos principais componentes do Metasploit Framework.
+* [Hydra](https://tryhackme.com/room/hydra) - Aprenda sobre e use o Hydra, um cracker de logon de rede rápido, para força bruta e obter as credenciais de um site.
+* [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Pratique suas habilidades de Escalação de Privilégios do Linux em uma VM Debian intencionalmente mal configurada com várias maneiras de obter root! SSH está disponível.
+* [Fundamentos do Red Team](https://tryhackme.com/room/redteamfundamentals) - Aprenda sobre os conceitos básicos de um engajamento Red Team, os principais componentes e partes interessadas envolvidas e como o Red Team difere de outros engajamentos de segurança cibernética.
+* [Red Team Recon](https://tryhackme.com/room/redteamrecon) - Aprenda a usar DNS, pesquisa avançada, Recon-ng e Maltego para coletar informações sobre seu alvo.
+* [Tutoriais Nmap](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Aprenda e pratique os fundamentos da varredura de rede usando Nmap.
 
 Red Team Intro CTFs
 
-* Vulnversity - Aprenda sobre reconhecimento ativo, ataques de aplicativos da web e escalonamento de privilégios.
-* Blue - Implante e invada uma máquina Windows, aproveitando problemas comuns de configuração incorreta.
-* CTF Simples - CTF de nível iniciante.
-* Bounty Hacker - Uma inicialização temática de cowboy espacial para máquina root.
+* [Vulnversity](https://tryhackme.com/room/vulnversity) - Aprenda sobre reconhecimento ativo, ataques de aplicativos da web e escalonamento de privilégios.
+* [Blue](https://tryhackme.com/room/blue) - Implante e invada uma máquina Windows, aproveitando problemas comuns de configuração incorreta.
+* [CTF Simples](https://tryhackme.com/room/easyctf) - CTF de nível iniciante.
+* [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) - Uma inicialização temática de cowboy espacial para máquina root.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
