@@ -1,7 +1,8 @@
 # Universidade de Seguranca Cibernética
 🎓 Porque a Educação deveria ser gratuita. Contribuições são bem-vindas! 🕵️
-![2025-03-14_16-54](https://github.com/user-attachments/assets/1b51cb44-335e-422c-be54-d3595d5c9e8f)
 
+
+![ChatGPT Image 1 de abr  de 2025, 08_25_35](https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946)
 
 
 # Conteúdo
