@@ -81,50 +81,50 @@ Red Team Intro CTFs
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 3 - Cripto & Hashes com prática CTF
-* Crack the hash - Desafios de cracking de hash.
-* Agente Sudo - Você encontrou um servidor secreto localizado no fundo do mar. Sua tarefa é hackear dentro do servidor e revelar a verdade.
-* The Cod Caper - Uma sala guiada que leva você a se infiltrar e explorar um sistema Linux.
-* Ice - Implante e hackeie uma máquina Windows, explorando um servidor de mídia muito mal protegido.
-* Lazy Admin - Máquina Linux fácil para praticar suas habilidades.
-* Penteste Básico - Esta é uma máquina que permite que você pratique hacking de aplicativos da web e escalonamento de privilégios.
-* Ignorando o UAC - Aprenda maneiras comuns de ignorar o Controle de Conta de Usuário (UAC) em hosts Windows.
+* [Crack the hash](https://tryhackme.com/room/crackthehash) - Desafios de cracking de hash.
+* [Agente Sudo](https://tryhackme.com/room/agentsudoctf) - Você encontrou um servidor secreto localizado no fundo do mar. Sua tarefa é hackear dentro do servidor e revelar a verdade.
+* [The Cod Caper](https://tryhackme.com/room/thecodcaper) - Uma sala guiada que leva você a se infiltrar e explorar um sistema Linux.
+* [Ice](https://tryhackme.com/room/ice) - Implante e hackeie uma máquina Windows, explorando um servidor de mídia muito mal protegido.
+* [Lazy Admin](https://tryhackme.com/room/lazyadmin) - Máquina Linux fácil para praticar suas habilidades.
+* [Penteste Básico](https://tryhackme.com/room/basicpentestingjt) - Esta é uma máquina que permite que você pratique hacking de aplicativos da web e escalonamento de privilégios.
+* [Ignorando o UAC](https://tryhackme.com/room/bypassinguac) - Aprenda maneiras comuns de ignorar o Controle de Conta de Usuário (UAC) em hosts Windows.
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 4 - Web
-* OWASP top 10 - Aprenda sobre e explore cada uma das 10 principais vulnerabilidades do OWASP; os 10 riscos de segurança da web mais críticos.
-* Inclusão - Um desafio LFI de nível iniciante.
-* Injeção - Passo a passo da injeção de comando do sistema operacional. Demonstre a injeção de comando do sistema operacional e explique como preveni-la em seus servidores.
-* Juice Shop - Esta sala usa o aplicativo da web vulnerável do Juice Shop OWASP para aprender como identificar e explorar vulnerabilidades comuns de aplicativos da web.
-* Overpass - O que acontece quando alguns alunos do Broke CompSci criam um gerenciador de senhas.
-* Ano do Coelho - Você consegue hackear a caixa do Ano do Coelho sem cair em um buraco.
-* DevelPy - Máquina Boot2root para FIT e Guatemala CTF.
-* Pau para toda obra - Boot-to-root originalmente projetado para Securi-Tay 2020.
-* Bolt - Máquina com tema Bolt para fazer root.
+* [OWASP top 10](https://tryhackme.com/room/owasptop10) - Aprenda sobre e explore cada uma das 10 principais vulnerabilidades do OWASP; os 10 riscos de segurança da web mais críticos.
+* [Inclusão](https://tryhackme.com/room/inclusion) - Um desafio LFI de nível iniciante.
+* [Injeção](https://tryhackme.com/room/injection) - Passo a passo da injeção de comando do sistema operacional. Demonstre a injeção de comando do sistema operacional e explique como preveni-la em seus servidores.
+* [Juice Shop](https://tryhackme.com/room/owaspjuiceshop) - Esta sala usa o aplicativo da web vulnerável do Juice Shop OWASP para aprender como identificar e explorar vulnerabilidades comuns de aplicativos da web.
+* [Overpass](https://tryhackme.com/room/overpass) - O que acontece quando alguns alunos do Broke CompSci criam um gerenciador de senhas.
+* [Ano do Coelho](https://tryhackme.com/room/yearoftherabbit) - Você consegue hackear a caixa do Ano do Coelho sem cair em um buraco.
+* [DevelPy](https://tryhackme.com/room/bsidesgtdevelpy) - Máquina Boot2root para FIT e Guatemala CTF.
+* [Pau para toda obra](https://tryhackme.com/room/jackofalltrades) - Boot-to-root originalmente projetado para Securi-Tay 2020.
+* [Bolt](https://tryhackme.com/room/bolt) - Máquina com tema Bolt para fazer root.
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 5 - Engenharia reversa e Pwn
-* Windows x64 Assembly - Introdução ao x64 Assembly no Windows.
-* CC Ghidra - Esta sala ensina os conceitos básicos do ghidra.
-* CC Radare2 - Esta sala ensina os conceitos básicos do radare2.
-* Engenharia reversa - Esta sala se concentra em ensinar os conceitos básicos de assembly por meio de engenharia reversa.
-* Reverso ELF - Sala para jogadores iniciantes de engenharia reversa de CTF.
-* Dumping Router Firmware - Engenharia reversa de firmware de roteador.
-* Introdução ao pwntools - Introdução à popular estrutura de ferramentas pwn.
-* Pwnkit: CVE-2021-4034 - Laboratório interativo para explorar e remediar o Pwnkit (CVE-2021-4034) no pacote Polkit.
+* [Windows x64 Assembly](https://tryhackme.com/r/room/win64assembly) - Introdução ao x64 Assembly no Windows.
+* [CC Ghidra](https://tryhackme.com/room/ccghidra) - Esta sala ensina os conceitos básicos do ghidra.
+* [CC Radare2](https://tryhackme.com/room/ccradare2) - Esta sala ensina os conceitos básicos do radare2.
+* [Engenharia reversa](https://tryhackme.com/room/reverseengineering) - Esta sala se concentra em ensinar os conceitos básicos de assembly por meio de engenharia reversa.
+* [Reverso ELF](https://tryhackme.com/room/reverselfiles) - Sala para jogadores iniciantes de engenharia reversa de CTF.
+* [Dumping Router Firmware](https://tryhackme.com/room/rfirmware) - Engenharia reversa de firmware de roteador.
+* [Introdução ao pwntools](https://tryhackme.com/room/introtopwntools) - Introdução à popular estrutura de ferramentas pwn.
+* [Pwnkit: CVE-2021-4034](https://tryhackme.com/room/pwnkit) - Laboratório interativo para explorar e remediar o Pwnkit (CVE-2021-4034) no pacote Polkit.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 6 - PrivEsc
-* Sudo Security Bypass - Uma sala de tutoriais explorando CVE-2019-14287 no Unix Sudo Program. Sala Um na Série SudoVulns.
-* Sudo Buffer Overflow - Uma sala de tutoriais explorando CVE-2019-18634 no Unix Sudo Program. Sala Dois na Série SudoVulns.
-* Windows Privesc Arena - Os alunos aprenderão como escalar privilégios usando uma VM Windows 7 muito vulnerável.
-* Linux Privesc Arena - Os alunos aprenderão como escalar privilégios usando uma VM Linux muito vulnerável.
-* Windows Privesc - Os alunos aprenderão como escalar privilégios usando uma VM Windows 7 muito vulnerável.
-* Blaster - Metasploit Framework para obter uma posição.
-* Ignite - Uma nova startup tem alguns problemas de segurança com seu servidor web.
-* Kenobi - Passo a passo sobre como explorar uma máquina Linux. Enumerate Samba para compartilhamentos, manipule uma versão vulnerável do proftpd e aumente seus privilégios com manipulação de variáveis ​​de caminho.
-* Capture a bandeira - Outro desafio CTF de nível iniciante.
-* Pickle Rick - Desafio LFI temático de Rick e Morty.
+* [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass) - Uma sala de tutoriais explorando CVE-2019-14287 no Unix Sudo Program. Sala Um na Série SudoVulns.
+* [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof) - Uma sala de tutoriais explorando CVE-2019-18634 no Unix Sudo Program. Sala Dois na Série SudoVulns.
+* [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena) - Os alunos aprenderão como escalar privilégios usando uma VM Windows 7 muito vulnerável.
+* [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena) - Os alunos aprenderão como escalar privilégios usando uma VM Linux muito vulnerável.
+* [Windows Privesc](https://tryhackme.com/room/windows10privesc) - Os alunos aprenderão como escalar privilégios usando uma VM Windows 7 muito vulnerável.
+* [Blaster](https://tryhackme.com/room/blaster) - Metasploit Framework para obter uma posição.
+* [Ignite](https://tryhackme.com/room/ignite) - Uma nova startup tem alguns problemas de segurança com seu servidor web.
+* [Kenobi](https://tryhackme.com/room/kenobi) - Passo a passo sobre como explorar uma máquina Linux. Enumerate Samba para compartilhamentos, manipule uma versão vulnerável do proftpd e aumente seus privilégios com manipulação de variáveis ​​de caminho.
+* [Capture a bandeira](https://tryhackme.com/room/c4ptur3th3fl4g) - Outro desafio CTF de nível iniciante.
+* [Pickle Rick](https://tryhackme.com/room/picklerick) - Desafio LFI temático de Rick e Morty.
 
 Parabéns! Se você terminou até aqui. Você merece um emblema! Coloque isso em seus writeups ou perfil git. Você pode continuar fazendo os CTFs abaixo.
 
