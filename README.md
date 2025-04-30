@@ -134,71 +134,71 @@ Clique aqui para pegar o seu Emblema de Red Team!
 
 # Blue Team - Curso Iniciante Gratuito
 Nível 1 - Ferramentas
-* Introdução à perícia digital - Introdução à perícia digital.
-* Fundamentos do Windows - Introdução ao Windows.
-* Nessus - Introdução ao Nessus scan.
-* Mitre - Introdução à estrutura de ataque Mitre.
-* IntroSIEM - Introdução ao SIEM.
-* Yara - Introdução ao Yara para análise de malware.
-* OpenVAS - Introdução ao openVAS.
-* Introdução aos Honeypots - Introdução aos Honeypots.
-* Volatilidade - Introdução à análise de memória com volatilidade.
-* Red Line - Aprenda a usar o Redline para executar análise de memória e escanear IOCs em um endpoint.
-* Autopsy - Use a Autopsy para investigar artefatos de uma imagem de disco.
+* [Introdução à perícia digital](https://tryhackme.com/room/introdigitalforensics) - Introdução à perícia digital.
+* [Fundamentos do Windows](https://tryhackme.com/room/windowsfundamentals1xbx) - Introdução ao Windows.
+* [Nessus](https://tryhackme.com/room/rpnessusredux) - Introdução ao Nessus scan.
+* [Mitre](https://tryhackme.com/room/mitre) - Introdução à estrutura de ataque Mitre.
+* [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introdução ao SIEM.
+* [Yara](https://tryhackme.com/room/yara) - Introdução ao Yara para análise de malware.
+* [OpenVAS](https://tryhackme.com/room/openvas) - Introdução ao openVAS.
+* [Introdução aos Honeypots](https://tryhackme.com/room/introductiontohoneypots) - Introdução aos Honeypots.
+* [Volatilidade](https://cyberdefenders.org/blueteam-ctf-challenges/redline/) - Introdução à análise de memória com volatilidade.
+* [Red Line](https://tryhackme.com/room/btredlinejoxr3d) - Aprenda a usar o Redline para executar análise de memória e escanear IOCs em um endpoint.
+* [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use a Autopsy para investigar artefatos de uma imagem de disco.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 2 - Operações de segurança, resposta a incidentes e caça a ameaças
-* Investigando o Windows - Investigando o Windows.
-* Detalhes Juice Shop - Juice Shop tem uma brecha! Analise os logs para ver o que aconteceu.
-* Carnage - Aplique suas habilidades analíticas para analisar o tráfego de rede malicioso usando o Wireshark.
-* Squid Game - CTF com tema de Squid Game.
-* Splunk Boss do SOC V1 - Parte da série Blue Primer, aprenda a usar o Splunk para pesquisar grandes quantidades de informações.
-* Splunk Boss do SOC V2 - Análise do Splunk vol 2.
-* Splunk Boss do SOC V3 - Análise do Splunk vol 3.
-* Hunt Conti com o Splunk - Um servidor Exchange foi comprometido com ransomware. Use o Splunk para investigar como os invasores comprometeram o servidor.
-* Hunting for Execution Tactic - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Execution (TA0002).
-* Hunting for Credential Access - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Credential Access (TA0006).
-* Hunting for Persistence Access - Junte-se à equipe de instrutores de caça a ameaças da Cyborg Security para um workshop de caça a ameaças divertido e prático no teclado que aborda o tópico de persistência adversarial (TA0003).
-* Hunting for Defense Evation - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Defense Evasion (TA0005).
+* [Investigando o Windows](https://tryhackme.com/room/investigatingwindows) - Investigando o Windows.
+* [Detalhes Juice Shop](https://tryhackme.com/room/juicydetails) - Juice Shop tem uma brecha! Analise os logs para ver o que aconteceu.
+* [Carnage](https://tryhackme.com/room/c2carnage) - Aplique suas habilidades analíticas para analisar o tráfego de rede malicioso usando o Wireshark.
+* [Squid Game](https://tryhackme.com/room/squidgameroom) - CTF com tema de Squid Game.
+* [Splunk Boss do SOC V1](https://tryhackme.com/room/bpsplunk) - Parte da série Blue Primer, aprenda a usar o Splunk para pesquisar grandes quantidades de informações.
+* [Splunk Boss do SOC V2](https://cyberdefenders.org/blueteam-ctf-challenges/16) - Análise do Splunk vol 2.
+* [Splunk Boss do SOC V3](https://cyberdefenders.org/blueteam-ctf-challenges/8) - Análise do Splunk vol 3.
+* [Hunt Conti com o Splunk](https://tryhackme.com/room/contiransomwarehgh) - Um servidor Exchange foi comprometido com ransomware. Use o Splunk para investigar como os invasores comprometeram o servidor.
+* [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Execution (TA0002).
+* [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Credential Access (TA0006).
+* [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Junte-se à equipe de instrutores de caça a ameaças da Cyborg Security para um workshop de caça a ameaças divertido e prático no teclado que aborda o tópico de persistência adversarial (TA0003).
+* [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Junte-se aos caçadores de ameaças especialistas da Cyborg Security enquanto eles mergulham na interessante MITRE ATT&CK Tactic of Defense Evasion (TA0005).
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 3 - Forense para iniciantes, inteligência de ameaças e criptografia
-* Martryohka Doll - Desafio de análise de arquivo para iniciantes.
-* The Glory of the Garden - Desafio de análise de imagem para iniciantes.
-* Packets Primer - Desafio de análise de pacote para iniciantes.
-* Wireshark doo doo doo - Desafio de análise de pacote para iniciantes.
-* Wireshark dois dois dois - Desafio de análise de pacote para iniciantes.
-* Trivial flag transfer protocol - Desafio de análise de pacote para iniciantes.
-* What Lies within - Desafio de análise de decodificação para iniciantes.
-* Illumination - Desafio forense de nível médio.
-* Emo - Desafio forense de nível médio.
-* Obsecure - Desafio forense de nível médio.
-* Intel101 Challenge - Desafio de inteligência de ameaças de nível médio.
-* Introdução ao Cryptohack - Desafio de criptografia de nível médio.
+* [Martryohka Doll](https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0) - Desafio de análise de arquivo para iniciantes.
+* [The Glory of the Garden](https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0) - Desafio de análise de imagem para iniciantes.
+* [Packets Primer](https://play.picoctf.org/practice/challenge/286?category=4&page=2&solved=0) - Desafio de análise de pacote para iniciantes.
+* [Wireshark doo doo doo](https://play.picoctf.org/practice/challenge/115?category=4&page=1&solved=0) - Desafio de análise de pacote para iniciantes.
+* [Wireshark dois dois dois](https://play.picoctf.org/practice/challenge/110?category=4&page=1&solved=0) - Desafio de análise de pacote para iniciantes.
+* [Trivial flag transfer protocol](https://play.picoctf.org/practice/challenge/103?category=4&page=1&solved=0) - Desafio de análise de pacote para iniciantes.
+* [What Lies within](https://play.picoctf.org/practice/challenge/74?category=4&page=2&solved=0) - Desafio de análise de decodificação para iniciantes.
+* [Illumination](https://app.hackthebox.com/challenges/illumination) - Desafio forense de nível médio.
+* [Emo](https://app.hackthebox.com/challenges/emo) - Desafio forense de nível médio.
+* [Obsecure](https://app.hackthebox.com/challenges/obscure) - Desafio forense de nível médio.
+* [Intel101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/38) - Desafio de inteligência de ameaças de nível médio.
+* [Introdução ao Cryptohack](https://cryptohack.org/courses/intro/course_details/) - Desafio de criptografia de nível médio.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Level 4 - Memory & Disk Forensics
-* Sleuthkit Intro - Medium level disk forensics challenge.
-* Reminiscent - Medium level disk forensics challenge.
-* Hunter - Windows Disk Image Forensics - Medium level disk forensics challenge.
-* Spotlight - Mac Disk Image Forensics - Medium level disk forensics challenge.
-* Ulysses - Linux Disk Image Forensics - Medium level disk forensics challenge.
-* Banking Troubles - Windows Memory Image Forensics - Medium level memory forensics challenge.
-* Detect Log4J - Medium level disk forensics challenge.
+* [Sleuthkit Intro](https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0) - Medium level disk forensics challenge.
+* [Reminiscent](https://app.hackthebox.com/challenges/reminiscent) - Medium level disk forensics challenge.
+* [Hunter - Windows Disk Image Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/32) - Medium level disk forensics challenge.
+* [Spotlight - Mac Disk Image Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/34) - Medium level disk forensics challenge.
+* [Ulysses - Linux Disk Image Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/41) - Medium level disk forensics challenge.
+* [Banking Troubles - Windows Memory Image Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/43) - Medium level memory forensics challenge.
+* [Detect Log4J](https://cyberdefenders.org/blueteam-ctf-challenges/86) - Medium level disk forensics challenge.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 Nível 5 - Malware e Engenharia Reversa
-* Histórico do Malware - Introdução ao histórico de malware.
-* Introdução ao Malware - Introdução ao malware.
-* Engenharia Reversa Básica de Malware - Introdução ao malware RE.
-* Introdução à Reversão do Windows - Introdução ao Windows RE.
-* Montagem do Windows x64 - Introdução à Montagem x64 no Windows.
-* Engenharia reversa da JVM - Aprenda Engenharia Reversa para bytecode da Java Virtual Machine.
-* Obtenha PDF (Documento Malicioso) - Revertendo malware em PDF.
+* [Histórico do Malware](https://tryhackme.com/room/historyofmalware) - Introdução ao histórico de malware.
+* [Introdução ao Malware](https://tryhackme.com/room/malmalintroductory) - Introdução ao malware.
+* [Engenharia Reversa Básica de Malware](https://tryhackme.com/room/basicmalwarere) - Introdução ao malware RE.
+* [Introdução à Reversão do Windows](https://tryhackme.com/room/windowsreversingintro) - Introdução ao Windows RE.
+* [Montagem do Windows x64](https://tryhackme.com/room/win64assembly) - Introdução à Montagem x64 no Windows.
+* [Engenharia reversa da JVM](https://tryhackme.com/room/jvmreverseengineering) - Aprenda Engenharia Reversa para bytecode da Java Virtual Machine.
+* [Obtenha PDF (Documento Malicioso)](https://cyberdefenders.org/blueteam-ctf-challenges/47) - Revertendo malware em PDF.
 
 Parabéns! Se você terminou até aqui. Você merece um emblema! Coloque isso em seus writeups ou perfil do git. Você pode continuar fazendo os CTFs abaixo.
 
