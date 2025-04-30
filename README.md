@@ -1,21 +1,31 @@
-# Universidade de Seguranca Cibernética
-🎓 Porque a Educação deveria ser gratuita. Contribuições são bem-vindas! 🕵️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=cf1f37&text=USC&fontColor=22ccc9&fontSize=40"/>
 
+<div align="center" width=100% >
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width="500" height="500"/>
+# Universidade de Segurança Cibernética
+
+### _🎓 Porque a Educação deveria ser gratuita._<br> 
+
+> Contribuições são bem-vindas! 🕵️
+
+<br> <img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width="500"/> <br>
+
+<div align="left">
+  <details>
+  <summary>
+    <h1> Conteúdo </h1>
+  </summary>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file##conte%C3%BAdo">Sobre</a></p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introdu%C3%A7%C3%A3o-a-seguran%C3%A7a-cibernetica">Introdução a Segurança Cibernetica</a>  - (Completo/Em Progresso)</p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#red-team---curso-iniciante-gratuito">Red Team - Curso Iniciante Gratuito</a> - (Add your badge here. The badge code is hidden in this repo)</p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#blue-team---curso-iniciante-gratuito">Blue Team - Curso Iniciante Gratuito</a> - (Add your badge here. The badge code is hidden in this repo)</p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#pr%C3%A1tica-b%C3%B4nus-de-ctf-e-%C3%BAtimos-cves">Prática Bônus de CTF e Útimos CVEs</a>  - (Completo/Em Progresso)</p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#b%C3%B4nus-windows">Bônus Windows</a>  - (Completo/Em Progresso)</p></li>
+  <li><p><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#salas-extremamente-dif%C3%ADceis-de-fazer">Salas extremamente difíceis de fazer</a>  - (Completo/Em Progresso)</p></li>
+</details>
 </div>
 
-
-
-# Conteúdo
-* [Sobre](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file##conte%C3%BAdo)
-* [Introdução a Segurança Cibernetica](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introdu%C3%A7%C3%A3o-a-seguran%C3%A7a-cibernetica) - (Completo/Em Progresso)
-* [Red Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#red-team---curso-iniciante-gratuito) - (Add your badge here. The badge code is hidden in this repo)
-* [Blue Team - Curso Iniciante Gratuito](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#blue-team---curso-iniciante-gratuito) - (Add your badge here. The badge code is hidden in this repo)
-* [Prática Bônus de CTF e Útimos CVEs](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#pr%C3%A1tica-b%C3%B4nus-de-ctf-e-%C3%BAtimos-cves) - (Completo/Em Progresso)
-* [Bônus Windows](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#b%C3%B4nus-windows) - (Completed/In Progress)
-* [Salas extremamente difíceis de fazer](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#salas-extremamente-dif%C3%ADceis-de-fazer) - (Completo/Em Progresso)
+</div>
 
 # Sobre
 A Universidade de Segurança Cibernetica é uma lista selecionada de recursos educacionais incríveis e gratuitos com foco em aprender fazendo.
