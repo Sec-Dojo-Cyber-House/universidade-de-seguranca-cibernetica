@@ -207,43 +207,44 @@ Clique aqui para pegar o seu Emblema de Blue Team!
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 # Prática Bônus de CTF e Útimos CVEs
-* Bandit  – Voltado para iniciantes absolutos, ensina os conceitos básicos de acesso remoto a servidores.
-* Natas – Ensina os fundamentos da segurança web do lado do servidor.
-* Post Exploitation Basics – Aprenda o básico de pós-exploração e manutenção de acesso usando Mimikatz, BloodHound, PowerView e MSFvenom.
-* Smag Grotto – Uma máquina "boot to root" obscura.
-* Dogcat – Eu fiz um site onde você pode ver fotos de cachorros e/ou gatos! Explore uma aplicação PHP via LFI e escape de um container Docker.
-* Buffer Overflow Prep – Pratique estouro de buffer baseado em pilha.
-* Break out the cage – Ajude Cage a reviver sua carreira de ator e investigue as atividades suspeitas de seu agente.
-* Lian Yu – Um desafio de segurança para iniciantes.
-* Insecure Kubernetes – Explore vulnerabilidades no Kubernetes aproveitando uma falha de LFI no Grafana.
-* The Great Escape (Docker) – Escape de um container Docker.
-* Solr Exploiting Log4j – Explore a CVE-2021-44228, uma vulnerabilidade no Log4j que afeta diversos softwares.
-* Spring4Shell – Laboratório interativo para explorar a vulnerabilidade Spring4Shell (CVE-2022-22965) no framework Java Spring.
-* Most Recent Threats – Aprenda sobre as ameaças mais recentes da indústria. Tenha experiência prática identificando, explorando e mitigando vulnerabilidades críticas.
+* [Bandit](https://overthewire.org/wargames/bandit/)  – Voltado para iniciantes absolutos, ensina os conceitos básicos de acesso remoto a servidores.
+* [Natas](https://overthewire.org/wargames/natas/) – Ensina os fundamentos da segurança web do lado do servidor.
+* [Post Exploitation Basics](https://tryhackme.com/room/postexploit) – Aprenda o básico de pós-exploração e manutenção de acesso usando Mimikatz, BloodHound, PowerView e MSFvenom.
+* [Smag Grotto](https://tryhackme.com/room/smaggrotto) – Uma máquina "boot to root" obscura.
+* [Dogcat](https://tryhackme.com/room/dogcat) – Eu fiz um site onde você pode ver fotos de cachorros e/ou gatos! Explore uma aplicação PHP via LFI e escape de um container Docker.
+* [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep) – Pratique estouro de buffer baseado em pilha.
+* [Break out the cage](https://tryhackme.com/room/breakoutthecage1) – Ajude Cage a reviver sua carreira de ator e investigue as atividades suspeitas de seu agente.
+* [Lian Yu](https://tryhackme.com/room/lianyu) – Um desafio de segurança para iniciantes.
+* [Insecure Kubernetes](https://tryhackme.com/room/insekube) – Explore vulnerabilidades no Kubernetes aproveitando uma falha de LFI no Grafana.
+* [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape) – Escape de um container Docker.
+* [Solr Exploiting Log4j](https://tryhackme.com/room/solar) – Explore a CVE-2021-44228, uma vulnerabilidade no Log4j que afeta diversos softwares.
+* [Spring4Shell](https://tryhackme.com/room/spring4shell) – Laboratório interativo para explorar a vulnerabilidade Spring4Shell (CVE-2022-22965) no framework Java Spring.
+* [Most Recent Threats](https://tryhackme.com/module/recent-threats) – Aprenda sobre as ameaças mais recentes da indústria. Tenha experiência prática identificando, explorando e mitigando vulnerabilidades críticas.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 # Bônus Windows
-* Attacktive Directory - Aprenda sobre 99% das redes corporativas que funcionam com AD.
-* Retro - Saindo da caixa com tema retrô.
-* Blue Print - Invada esta máquina Windows e aumente seus privilégios para Administrador.
-* Anthem - Explore uma máquina Windows neste desafio de nível iniciante.
-* Relevante - Desafio de teste de penetração.
+* [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Aprenda sobre 99% das redes corporativas que funcionam com AD.
+* [Retro](https://tryhackme.com/room/retro) - Saindo da caixa com tema retrô.
+* [Blue Print](https://tryhackme.com/room/blueprint) - Invada esta máquina Windows e aumente seus privilégios para Administrador.
+* [Anthem](https://tryhackme.com/room/anthem) - Explore uma máquina Windows neste desafio de nível iniciante.
+* [Relevante](https://tryhackme.com/room/relevant) - Desafio de teste de penetração.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
 # Salas Extremamente Difíceis de Fazer
-* Ra - Você encontrou a rede interna da WindCorp e seu Controlador de Domínio. Invada a rede.
-* CCT2019 - Desafios legados da Competição de Cibersegurança da Marinha dos EUA de 2019, patrocinada pela Décima Frota dos EUA.
-* Theseus - A primeira parte da série SuitGuy de desafios muito difíceis.
-* IronCorp - Obtenha acesso ao sistema da Iron Corp.
-* Carpe Diem 1 - Recupere os arquivos criptografados do seu cliente antes que o tempo do ransomware acabe.
-* Borderlands - Comprometa um host de perímetro e pivote por esta rede.
-* Jeff - Invade o servidor web do Jeff.
-* Year of the Owl - Máquina boot to root com tema de coruja.
-* Anonymous Playground - Quer fazer parte do Anonymous? Eles têm um desafio para você. EnterPrize - Rede com tema empresarial para invadir.
-* Racetrack Bank - É hora de outro assalto.
-* Python Playground - Use Python para invadir esta sala.
+* [Ra](https://tryhackme.com/room/ra) - Você encontrou a rede interna da WindCorp e seu Controlador de Domínio. Invada a rede.
+* [CCT2019](https://tryhackme.com/room/cct2019) - Desafios legados da Competição de Cibersegurança da Marinha dos EUA de 2019, patrocinada pela Décima Frota dos EUA.
+* [Theseus](https://tryhackme.com/room/theseus) - A primeira parte da série SuitGuy de desafios muito difíceis.
+* [IronCorp](https://tryhackme.com/room/ironcorp) - Obtenha acesso ao sistema da Iron Corp.
+* [Carpe Diem 1](https://tryhackme.com/room/carpediem1) - Recupere os arquivos criptografados do seu cliente antes que o tempo do ransomware acabe.
+* [Borderlands](https://tryhackme.com/room/borderlands) - Comprometa um host de perímetro e pivote por esta rede.
+* [Jeff](https://tryhackme.com/room/jeff) - Invade o servidor web do Jeff.
+* [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Máquina boot to root com tema de coruja.
+* [Anonymous Playground](https://tryhackme.com/room/anonymousplayground) - Quer fazer parte do Anonymous? Eles têm um desafio para você. EnterPrize - Rede com tema empresarial para invadir.
+* [EnterPrize](https://tryhackme.com/room/enterprize) - Enterprise-themed network to hack into.
+* [Racetrack Bank](https://tryhackme.com/room/racetrackbank) - É hora de outro assalto.
+* [Python Playground](https://tryhackme.com/room/pythonplayground) - Use Python para invadir esta sala.
 
 [↑](https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica#conteúdo)
 
