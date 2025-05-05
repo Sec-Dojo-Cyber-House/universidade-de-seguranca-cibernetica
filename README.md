@@ -16,7 +16,7 @@
 
 <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica">
 
-<img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width=80%/> </a>
+<img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width=90%/> </a>
 
 <br>
 <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica"><img src="https://img.shields.io/badge/Sec_Dojo_Cyber_House-278280" /></a><br>
@@ -587,63 +587,11 @@ _“A melhor forma de defender é saber atacar.” – Bruce Schneier_
   
   ##
 
-  <h3>Fundador do Projeto</h3>
+  <h3>Contribuidores</h3>
 
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nmmorette">
-        <img src="https://avatars.githubusercontent.com/u/85892001?v=4" width="120" style="border-radius: 50%;"/><br>
-        <a href="https://github.com/nmmorette">
-        <sub><b>Natan Morette</b></sub>
-      </a>
-    </td>
-    <td align="center">
-       <img
-    height=155
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=nmmorette&show_icons=true&count_private=true&rank_icon=github&hide_border=true&include_all=true&theme=neon&text_color=09ede8&title_color=cf1f37&icon_color=cf1f37"
-   />
-  </tr>
-</table>
-
-##
-
-<h3>Membros</h3>
-
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/angelomorette">
-        <img src="https://avatars.githubusercontent.com/u/41171066?v=4" width="120" style="border-radius: 50%;"/><br>
-        <a href="https://github.com/angelomorette">
-        <sub><b>Angelo Morette</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lislovelly">
-        <img src="https://avatars.githubusercontent.com/u/135989808?v=4" width="120" style="border-radius: 50%;"/><br>
-        <a href="https://github.com/lislovelly">
-        <sub><b>Elisangela Mendonça</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KarinaGante">
-        <img src="https://avatars.githubusercontent.com/u/121819941?v=4" width="120" style="border-radius: 50%;"/><br>
-        <a href="https://github.com/KarinaGante">
-        <sub><b>Karina Gante</b></sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/rafaelcorvino1">
-        <img src="https://avatars.githubusercontent.com/u/116832657?v=4" width="120" style="border-radius: 50%;"/><br>
-        <a href="https://github.com/rafaelcorvino1">
-        <sub><b>Rafael Corvino</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+ <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica" />
+ </a>
 
 ##
 
