@@ -242,7 +242,6 @@ Clique aqui para pegar o seu Emblema de Blue Team!
 * [Jeff](https://tryhackme.com/room/jeff) - Invade o servidor web do Jeff.
 * [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Máquina boot to root com tema de coruja.
 * [Anonymous Playground](https://tryhackme.com/room/anonymousplayground) - Quer fazer parte do Anonymous? Eles têm um desafio para você. EnterPrize - Rede com tema empresarial para invadir.
-* [EnterPrize](https://tryhackme.com/room/enterprize) - Enterprise-themed network to hack into.
 * [Racetrack Bank](https://tryhackme.com/room/racetrackbank) - É hora de outro assalto.
 * [Python Playground](https://tryhackme.com/room/pythonplayground) - Use Python para invadir esta sala.
 
