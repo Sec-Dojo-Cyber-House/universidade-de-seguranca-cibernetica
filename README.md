@@ -563,6 +563,8 @@ Conforme você avança no curso, você encontrará emblemas de conclusão que es
 
 _“A melhor forma de defender é saber atacar.” – Bruce Schneier_
 
+Inspired by: https://github.com/brootware/awesome-cyber-security-university
+
 <div align="center" style="display: inline_block"><br>
  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" />
  <img width="40" src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" />
